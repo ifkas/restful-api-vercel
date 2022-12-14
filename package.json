@@ -1,0 +1,30 @@
+{
+  "name": "restful-api-vercel",
+  "version": "1.0.0",
+  "description": "This is a ready RESTful API created with the JSON Server package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifkas/restful-api-vercel.git"
+  },
+  "keywords": [
+    "restful",
+    "rest",
+    "api",
+    "vercel",
+    "json",
+    "server"
+  ],
+  "author": "Ivo Culic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifkas/restful-api-vercel/issues"
+  },
+  "homepage": "https://github.com/ifkas/restful-api-vercel#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
